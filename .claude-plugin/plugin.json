@@ -1,0 +1,10 @@
+{
+  "name": "red-team",
+  "version": "1.0.0",
+  "description": "Red team testing mode - prevents Claude from being influenced by target model responses during security testing",
+  "author": {
+    "name": "HackAI",
+    "url": "https://github.com/hackai"
+  },
+  "keywords": ["red-team", "security", "jailbreak", "llm-testing", "anti-drift"]
+}
